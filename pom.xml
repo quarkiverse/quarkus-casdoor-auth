@@ -9,7 +9,7 @@
     </parent>
     <groupId>io.quarkiverse.casdoor-auth</groupId>
     <artifactId>quarkus-casdoor-auth-parent</artifactId>
-    <version>0.1.0</version>
+    <version>999-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Quarkus Casdoor Auth - Parent</name>
 
@@ -22,7 +22,7 @@
         <connection>scm:git:git@github.com:quarkiverse/quarkus-casdoor-auth.git</connection>
         <developerConnection>scm:git:git@github.com:quarkiverse/quarkus-casdoor-auth.git</developerConnection>
         <url>https://github.com/quarkiverse/quarkus-casdoor-auth</url>
-      <tag>0.1.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <properties>
